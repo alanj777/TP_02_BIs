@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP0_Bis_Jolodovsky/1.0.0": {
+        "runtime": {
+          "TP0_Bis_Jolodovsky.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP0_Bis_Jolodovsky/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
